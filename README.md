@@ -1,5 +1,5 @@
 # Exploreke
-## A Blog website for campers, tourists and explorers to post articles and photos of good camping locations around Kenya. Users can create and delete accounts, post and bookmark other users posts. 
+A Blog website for campers, tourists and explorers to post articles and photos of good camping locations around Kenya. Users can create and delete accounts, post and bookmark other users posts. 
 
 
 # Pre-Requisites
